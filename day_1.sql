@@ -1,0 +1,1 @@
+SELECT * FROM sql7dayschallenge.payments;
